@@ -46,7 +46,7 @@ export default function TrustedPartners() {
           <button
           onClick={handleBookCall}
 
-        className="bg-green-700 hover:bg-green-800 text-gray-600 font-semibold rounded-full px-6 py-4 md:py-5 text-lg md:text-xl transition-colors duration-300"
+        className="bg-green-700 hover:bg-green-800 text-white font-semibold rounded-full px-6 py-4 md:py-5 text-lg md:text-xl transition-colors duration-300"
           >
             Try it now
           </button>
